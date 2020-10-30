@@ -5,4 +5,5 @@ Invoke with python and no arguments to scrub metadata in the CWD or add the targ
 Example:
 
 python scubber.py
+
 python scubber.py /home/user/videos
